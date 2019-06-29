@@ -1,0 +1,454 @@
+# Luna Pinyin Cantonese Dictionary - 朙月拼音粵語擴展詞庫
+#
+# 常用粵語詞組
+#
+# 部分字使用粵拼/英語/拆字方便輸入
+#
+#
+---
+name: luna_pinyin.cantonese
+version: "2019.06.29"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+噏	up
+撳	am
+撳	gam
+撳機
+噏	ap
+揼	dap
+揼	dump
+揼	dum
+揼	dam
+𢱕	dap
+包剪揼
+包剪揼	bjd
+揼石仔
+揼落水
+揼鳩佢
+揼印
+亂揼
+揼垃圾
+嚸	dim
+嚸解	dimgai
+點解	dimgai
+點解
+點樣
+點算
+㗎	ga
+揈	fing
+吊吊揈
+亂揈
+㗰	sai
+嗮	sai
+唞	tau
+唞氣
+掹	meng
+躝屍趌路 lsjl
+躝屍趷路 lsjl
+躝屍趌路
+躝屍趷路
+躝開
+哂	shai
+波棵摩科	bpmf
+𡁻	chew
+擢	chok
+氹	dam
+氹	tam
+戥	dang
+啫	jet
+啫	zoe
+啫啫
+潷	fat
+𢳂	fat
+𢴩	fat
+潷	bat
+擗	pek
+偈	gai
+喼	gip
+篋	gip
+喼汁
+皮篋
+行李篋
+行李喼
+轟	gwang
+景轟
+嚡	haai
+乞	hat
+嗤	ci
+乞嗤
+躝癱	lan tan
+搣	mit
+屌	diu
+𨳒	diu
+𨳒	menxiao
+閪	se
+閪	hai
+閪仔
+屌閪
+㞗	gau
+𨳊	gau
+𨳊	menjiu
+鳩	gau
+𨶙	menneng
+𨶙	lan
+撚	nan
+撚	lan
+毒撚
+毒L	dukl
+𨳍	cat
+𨳍	menqi
+杘	cat
+屌閪鳩撚柒
+𨳒閪𨳊𨶙𨳍
+戇	on
+戇鳩
+戇㞗
+跣	sin
+當勞侵	trump
+特郎普	trump
+川普	trump
+侵侵	trump
+䟴	un
+䟴腳
+䟴䟴腳
+芫茜	yanxi
+囉	lo
+囉	lor
+攣	lyun
+囉攣
+囉柚
+囉囉攣
+囉囉攣	lll
+依家
+依度
+宜家
+呢度
+你哋
+我哋
+佢哋
+呢哋
+邊個嘅
+我嘅
+你嘅
+佢嘅
+靚女
+靚仔
+甴	gad
+曱	zad
+甴曱
+冚	hem
+冚	ham
+冚	kan
+唥	lang
+唥	laang
+唪	baang
+冚唪唥	hbl
+冚家鏟
+冚扮爛
+冚辦爛
+屙屎
+屙尿
+𡃁	liang
+𡃁	lieng
+𡃁妹
+𡃁模	liang mo
+花𡃁
+雞𡃁
+𡃁仔
+瞓	fen
+瞓覺	fen gaau
+瞓覺
+眼瞓
+嗰	gor
+嗰頭
+嗰個
+嗰啲
+嬲嬲豬
+孖	ma
+孖展
+孖展
+大孖
+孖生
+女B	nv b
+夾萬
+鍾意
+掟煲
+甩	lat
+甩拖
+尖筆甩
+劈友
+折墮
+執生
+玩嘢
+喐	yu
+喐	yuk
+掂檔
+醒水
+心抱
+新婦
+打機
+運吉
+蚊飯
+牙煙
+崖煙
+慳	haan
+慳啲
+慳錢
+得戚
+老世
+老細
+事頭婆
+fan屎	fan shi
+fan屎	fan si
+fans	fan si
+擁躉	fan si
+擁躉	fen si
+岌	kap
+岌	gap
+岌岌貢
+巴閉
+轉軚
+軚盤	
+低B	di b
+開片
+死人頭
+放飛機
+過主
+咪	mai
+咪嘈
+鬼殺咁嘈
+咁多
+係咪
+咪高峰
+咪高峰	microphone
+咪頭
+咪走
+睇水
+埋單
+抵死
+聽日
+報寸
+報串
+嘜	mug
+嘜	mak
+幾多嘜
+幾多
+幾時
+幾點
+嘜頭
+電掣
+遊車河
+爆格
+爆甲
+爆燈
+爆棚
+扮嘢
+扮嗮蟹
+契弟
+吽	ngau
+哣	dau
+發吽哣
+發吽哣	fa dai
+發怐逗	fa dai
+生蘿蔔仔
+鉸剪
+雪櫃
+傾偈
+傾偈	king gai
+吔飯
+吔屎
+吔尿
+糶	tiu
+糶灰
+孭	me
+孭	mie
+孭飛
+孭帶
+孭仔
+督背脊
+厾	duk
+厾背脊
+瀡	seoi
+瀡	sir
+瀡滑梯
+馬騮
+鹹濕
+鹹濕	xian shi
+鹹豬手
+鹹濕仔
+鹹濕女
+鹹濕嘢
+鹹書
+鹹片
+行街
+花樽
+心熄
+心息
+大話
+講大話
+人客
+鬼馬
+大鑊
+第二啲
+唔通
+唔work	wu work
+唔好
+唔好走
+唔使
+唔洗
+啹	gur
+唔gur	wu gur
+唔啹
+番梘
+番鹼
+轆	luk
+車轆
+火燭
+扯火
+蘇蝦
+蘇蝦仔
+特登
+專登
+黐線
+黐線	chisin
+黐撚線	cls
+是但
+求其
+好彩	
+荷包
+口齒
+遊車河
+把炮
+犀利
+屈	wat
+屈機
+老屈
+砌生豬肉
+奄尖
+臢	zim
+腌臢
+唚	cam
+唚氣
+長氣唚氣
+噚	cam
+尋	cam
+噚	xun
+噚日
+琴日
+尋日
+噚氣
+熟口面
+瓊	king
+瓊瑤
+瓊漿
+蛤乸
+蝨乸
+虱乸
+撩女
+溝女
+媾女
+媾仔
+溝仔
+食女
+食仔
+蠱惑
+爆缸
+第時
+第日
+塘尾
+笠	lap
+老笠
+笠水
+淆	ngaau
+淆底
+褪軚
+阿sir asir
+阿蛇
+炒魷魚
+當街
+大唔透
+男人老狗
+呃人
+呃秤
+冧	lam
+冧	nam
+冧樓
+冧把
+冧巴
+隻揪
+隻抽
+大隻
+大隻佬
+金魚佬
+豬肉佬
+紙皮佬
+筍	seon
+筍盤
+筍嘢
+食死貓
+買餸
+睇餸
+好餸
+扱	kap
+扱印
+晏晝
+自動波
+拗手瓜
+有落
+散仔
+炒散
+得滯
+無聊得滯
+𠺘	long
+啷	long
+𠺘口
+啷口
+埋身
+本地薑
+晨早流流
+狗公
+厹	gougong
+厹	jiugong
+撈頭
+撈鬆
+撈佬
+姣	haau
+發姣
+懵閉閉
+懵盛盛
+懵懵閉
+噼	pat
+噼噼
+戽	fu
+戽被
+fu被	fu
+蛋散
+饊	saan
+蛋饊
+揸車
+弗	fit
+揸弗
+揸弗人
+符弗
+跛	bai
+跛腳
+仆街
+仆街仔
+𨅝	jaang
+煨	wui
+該煨
+太監讀神學
+𠱸	seon
+咕𠱸	cushion
+飆冷汗
+山卡啦
+咭	card
+咭	ka
+信用咭
+篤波
+啱好
+啱身
+啱用
+嘴招招
