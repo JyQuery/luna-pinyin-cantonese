@@ -13,10 +13,15 @@ use_preset_vocabulary: true
 ...
 
 噏	up
+噏	ap
+狗噏
+亂噏
+噏得就噏
+噏三噏四
+隨口噏
 撳	am
 撳	gam
 撳機
-噏	ap
 揼	dap
 揼	dump
 揼	dum
@@ -39,6 +44,8 @@ use_preset_vocabulary: true
 㗎	ga
 揈	fing
 吊吊揈
+條條揈
+屌屌揈
 亂揈
 㗰	sai
 嗮	sai
@@ -79,32 +86,76 @@ use_preset_vocabulary: true
 嗤	ci
 乞嗤
 躝癱	lan tan
+屎忽鬼
+屎窟竉
 搣	mit
 屌	diu
 𨳒	diu
 𨳒	menxiao
+屌那媽
+屌屄
+屌閪
 閪	se
 閪	hai
 閪仔
-屌閪
+閪哂
+傻閪
+臭閪
+臭化閪
+有閪
+冇閪
+閪面
+閪口
+閪知
 㞗	gau
 𨳊	gau
 𨳊	menjiu
 鳩	gau
+鳩頭
+鳩毛
+鳩噏
+乜鳩
+打鳩
+有鳩
+有鳩用
+冇鳩
+冇鳩用
 𨶙	menneng
 𨶙	lan
 撚	nan
 撚	lan
+撚樣
 毒撚
+把撚
+含撚
+有撚
+冇撚
+冇撚用
+切撚
+打柒
+撚閪
+黐線
+黐線	chisin
+黐撚線	cls
 𨳍	cat
 𨳍	menqi
 杘	cat
+碌柒
+托柒
+柒知
+切柒
+柒頭
+柒腦
+打柒
+柒撚懵懵
 屌閪鳩撚柒
 𨳒閪𨳊𨶙𨳍
 戇	on
 戇鳩
 戇㞗
+戇居
 跣	sin
+當勞侵
 䟴	un
 䟴腳
 䟴䟴腳
@@ -120,16 +171,31 @@ use_preset_vocabulary: true
 依度
 宜家
 呢度
+呢個
+呢啲
 你哋
 我哋
 佢哋
-呢哋
+人哋
+邊個
 邊個嘅
+畀我
+畀佢
+畀你
+畀錢
+畀面
+畀利是
+俾我
+俾佢
+俾你
+俾人
 我嘅
 你嘅
 佢嘅
 靚女
 靚仔
+衰女
+衰仔
 甴	gad
 曱	zad
 甴曱
@@ -139,8 +205,9 @@ use_preset_vocabulary: true
 唥	lang
 唥	laang
 唪	baang
+冚家
 冚唪唥	hbl
-冚家鏟
+冚家剷
 冚扮爛
 冚辦爛
 屙屎
@@ -160,6 +227,7 @@ use_preset_vocabulary: true
 嗰頭
 嗰個
 嗰啲
+嗰度
 嬲嬲豬
 孖	ma
 孖展
@@ -177,6 +245,19 @@ use_preset_vocabulary: true
 折墮
 執生
 玩嘢
+講嘢
+好嘢
+搵嘢
+搶嘢
+冇嘢好講
+支嘢
+皮嘢
+雞嘢
+差嘢
+條嘢
+草嘢
+春嘢
+兜嘢
 喐	yu
 喐	yuk
 掂檔
@@ -191,6 +272,7 @@ use_preset_vocabulary: true
 慳	haan
 慳啲
 慳錢
+慳皮
 得戚
 老世
 老細
@@ -221,6 +303,10 @@ fans	fan si
 咪頭
 咪走
 睇水
+睇好
+睇淡
+睇衰
+睇餸
 埋單
 抵死
 聽日
@@ -252,6 +338,8 @@ fans	fan si
 雪櫃
 傾偈
 傾偈	king gai
+吔	ye
+吔	je
 吔飯
 吔屎
 吔尿
@@ -293,6 +381,12 @@ fans	fan si
 唔好走
 唔使
 唔洗
+唔係
+唔啱
+唔對
+唔俾
+唔畀
+唔嚟
 啹	gur
 唔gur	wu gur
 唔啹
@@ -306,9 +400,6 @@ fans	fan si
 蘇蝦仔
 特登
 專登
-黐線
-黐線	chisin
-黐撚線	cls
 是但
 求其
 好彩	
@@ -384,7 +475,6 @@ fans	fan si
 筍嘢
 食死貓
 買餸
-睇餸
 好餸
 扱	kap
 扱印
@@ -392,10 +482,12 @@ fans	fan si
 自動波
 拗手瓜
 有落
+有啲
+有嘢
+有冇
 散仔
 炒散
 得滯
-無聊得滯
 𠺘	long
 啷	long
 𠺘口
@@ -447,3 +539,16 @@ fu被	fu
 啱身
 啱用
 嘴招招
+摷	caau
+摷	cao
+摷勻
+摷嘢
+櫃桶
+好勁
+樣衰
+喎	wor
+喎	wo
+係喎
+啱喎
+出嚟
+過嚟
