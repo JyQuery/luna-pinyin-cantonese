@@ -7,21 +7,24 @@
 #
 ---
 name: luna_pinyin.cantonese
-version: "2019.06.29"
+version: "2019.06.30"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
 噏	up
 噏	ap
+噏	u kou
 狗噏
 亂噏
 噏得就噏
 噏三噏四
 隨口噏
+收聲
 撳	am
 撳	gam
 撳機
+撳掣
 揼	dap
 揼	dump
 揼	dum
@@ -35,45 +38,105 @@ use_preset_vocabulary: true
 揼印
 亂揼
 揼垃圾
+揼咗
 嚸	dim
-嚸解	dimgai
-點解	dimgai
+嚸	u kou dian
+嚸	u kou
+嚸解	dim gai
+點解	dim gai
 點解
 點樣
 點算
 㗎	ga
+㗎	u kou jia
+㗎	u kou
+唓	u kou
+唓	u kou che
+嗟	u kou
+嗟	u kou cha
+啵	u kou
+啵	u kou bo
+㗎喇
 揈	fing
 吊吊揈
 條條揈
 屌屌揈
 亂揈
 㗰	sai
-嗮	sai
+嘥	sai
+嘥	u kou
+㗰	u kou
+嘥氣
+㗰氣
 唞	tau
+唞	u kou dou
+唞	u kou
 唞氣
+早唞
+唞下
 掹	meng
+掹	u shou meng
+掹	u shou
+掹開
+掹牙
+掹住
+掹草
+掹出
 躝屍趌路 lsjl
 躝屍趷路 lsjl
 躝屍趌路
 躝屍趷路
 躝開
+嗮	sai
 哂	shai
+晒	shai
 波棵摩科	bpmf
 𡁻	chew
+𡁻	ziu
+噍	chew
+噍	ziu
+噍完鬆
+𡁻完鬆
+噍食
 擢	chok
+擢樣
+擢氣
+擢親
+擢到
 氹	dam
 氹	tam
+𠱁	tam
+氹仔
+氹佢
+氹人
+氹女
+氹返
 戥	dang
+戥你開心
 啫	jet
 啫	zoe
 啫啫
+啫啫煲
 潷	fat
 𢳂	fat
 𢴩	fat
 潷	bat
+潷起
+𢳂起
+潷湯
+𢳂湯
+潷飯
+𢳂飯
 擗	pek
+擗咗
+擗哂
+擗炮
 偈	gai
+傾偈
+傾偈	king gai
 喼	gip
+喼	u kou ji
+喼	u kou
 篋	gip
 喼汁
 皮篋
@@ -82,6 +145,11 @@ use_preset_vocabulary: true
 轟	gwang
 景轟
 嚡	haai
+嚡	xie
+嚡	u kou xie
+嚡	u kou
+好嚡
+嚡拾拾
 乞	hat
 嗤	ci
 乞嗤
@@ -89,14 +157,26 @@ use_preset_vocabulary: true
 屎忽鬼
 屎窟竉
 搣	mit
+搣你
+搣我
+搣佢
+搣爛
+搣人
+摵	cik
+摵起
 屌	diu
+摟打
+摟屌
 𨳒	diu
-𨳒	menxiao
+𨳒	u men xiao
+𨳒	u men
 屌那媽
 屌屄
 屌閪
 閪	se
 閪	hai
+閪	u men xi
+閪	u men
 閪仔
 閪哂
 傻閪
@@ -107,9 +187,11 @@ use_preset_vocabulary: true
 閪面
 閪口
 閪知
+使閪
 㞗	gau
 𨳊	gau
-𨳊	menjiu
+𨳊	u men jiu
+𨳊	u men
 鳩	gau
 鳩頭
 鳩毛
@@ -120,12 +202,16 @@ use_preset_vocabulary: true
 有鳩用
 冇鳩
 冇鳩用
-𨶙	menneng
+𨶙	u men neng
+𨶙	u men
 𨶙	lan
 撚	nan
 撚	lan
+撚	u shou ran
+撚	u shou
 撚樣
 毒撚
+毒男
 把撚
 含撚
 有撚
@@ -135,10 +221,13 @@ use_preset_vocabulary: true
 打柒
 撚閪
 黐線
-黐線	chisin
+黐線	chi sin
 黐撚線	cls
+黐撚線
+黐孖筋
 𨳍	cat
-𨳍	menqi
+𨳍	u men qi
+𨳍	u men
 杘	cat
 碌柒
 托柒
@@ -147,32 +236,48 @@ use_preset_vocabulary: true
 柒頭
 柒腦
 打柒
+笨柒
 柒撚懵懵
 屌閪鳩撚柒
 𨳒閪𨳊𨶙𨳍
+𢆡	lin
+𢆡	nin
+𢆡頭
+lin頭	lin tou
 戇	on
+戇	ngong
 戇鳩
 戇㞗
 戇居
-跣	sin
+碌葛
+豬兜
+木嘴
+呢	le
+騎呢蘇
+升呢
+卡啦蘇
 當勞侵
 䟴	un
 䟴腳
 䟴䟴腳
-芫茜	yanxi
+芫茜	yan xi
 囉	lo
 囉	lor
 攣	lyun
+好囉
 囉攣
 囉柚
 囉囉攣
-囉囉攣	lll
 依家
 依度
 宜家
 呢度
 呢個
 呢啲
+呢條
+呢隻
+哋	u kou di
+哋	u kou
 你哋
 我哋
 佢哋
@@ -192,10 +297,8 @@ use_preset_vocabulary: true
 我嘅
 你嘅
 佢嘅
-靚女
-靚仔
-衰女
-衰仔
+衰到貼地
+話頭醒尾
 甴	gad
 曱	zad
 甴曱
@@ -204,18 +307,26 @@ use_preset_vocabulary: true
 冚	kan
 唥	lang
 唥	laang
+唥	u kou leng
+唥	u kou
+唥鐘
+冚唥
 唪	baang
+唪	u kou feng
+唪	u kou
+唪唥
 冚家
 冚唪唥	hbl
 冚家剷
+冚旗
 冚扮爛
 冚辦爛
 屙屎
 屙尿
 𡃁	liang
-𡃁	lieng
+𡃁	leng
 𡃁妹
-𡃁模	liang mo
+𡃁模
 花𡃁
 雞𡃁
 𡃁仔
@@ -223,27 +334,66 @@ use_preset_vocabulary: true
 瞓覺	fen gaau
 瞓覺
 眼瞓
+瞓咗
 嗰	gor
+嗰	u kou ge
+嗰	u kou
+嗰	go
+嗰	ge
 嗰頭
 嗰個
 嗰啲
 嗰度
+嗰邊
+嗰隻
+嬲	nao
 嬲嬲豬
+發嬲
+激嬲
+嬲爆
+好嬲
+不嬲
 孖	ma
 孖展
 孖展
 大孖
 孖生
+孖指
 女B	nv b
+後生
+男仔
+女仔
+大個仔
+呀仔
+後生仔
+貓仔
+狗仔
+矮仔
+飛仔
+靚女
+靚仔
+衰女
+衰仔
+乖仔
+乖女
+狗仔隊
+二五仔
+打工仔
+陰功仔
+古惑仔
 夾萬
 鍾意
 掟煲
 甩	lat
 甩拖
+麻甩
 尖筆甩
 劈友
 折墮
 執生
+收皮
+嘢	u kou ye
+嘢	u kou
 玩嘢
 講嘢
 好嘢
@@ -258,18 +408,40 @@ use_preset_vocabulary: true
 草嘢
 春嘢
 兜嘢
+舐嘢
+奶嘢
+搵食
+搵到
+搵人
+搵笨
+搵乜
 喐	yu
 喐	yuk
+喐	u kou yu
+喐	u kou
+喐動
+喐下
+喐啲
+咿	yi
+咿	u kou yi
+咿	u kou
+咿喐
+喐喐貢
 掂檔
+拆掂
 醒水
 心抱
 新婦
 打機
+挑機
 運吉
 蚊飯
 牙煙
 崖煙
 慳	haan
+啲	u kou di
+啲	u kou
+第啲
 慳啲
 慳錢
 慳皮
@@ -279,27 +451,27 @@ use_preset_vocabulary: true
 事頭婆
 fan屎	fan shi
 fan屎	fan si
-fans	fan si
-擁躉	fan si
-擁躉	fen si
+fan屎	fan s
+擁躉
 岌	kap
 岌	gap
 岌岌貢
 巴閉
-轉軚
-軚盤	
-低B	di b
 開片
 死人頭
 放飛機
 過主
 咪	mai
 咪嘈
+咪住
+咪住先
 鬼殺咁嘈
 咁多
+咁樣
 係咪
 咪高峰
-咪高峰	microphone
+咪	mic
+咪高峰	mic rophone
 咪頭
 咪走
 睇水
@@ -307,6 +479,9 @@ fans	fan si
 睇淡
 睇衰
 睇餸
+睇住
+睇書
+睇片
 埋單
 抵死
 聽日
@@ -315,9 +490,12 @@ fans	fan si
 嘜	mug
 嘜	mak
 幾多嘜
+薯嘜
 幾多
 幾時
 幾點
+幾好
+幾衰
 嘜頭
 電掣
 遊車河
@@ -326,18 +504,21 @@ fans	fan si
 爆燈
 爆棚
 扮嘢
+扮蟹
 扮嗮蟹
 契弟
 吽	ngau
+吽	u kou niu
+吽	u kou
 哣	dau
+哣	u kou dou
+哣	u kou
 發吽哣
 發吽哣	fa dai
 發怐逗	fa dai
 生蘿蔔仔
 鉸剪
 雪櫃
-傾偈
-傾偈	king gai
 吔	ye
 吔	je
 吔飯
@@ -358,7 +539,6 @@ fans	fan si
 瀡滑梯
 馬騮
 鹹濕
-鹹濕	xian shi
 鹹豬手
 鹹濕仔
 鹹濕女
@@ -366,6 +546,7 @@ fans	fan si
 鹹書
 鹹片
 行街
+行路
 花樽
 心熄
 心息
@@ -373,20 +554,25 @@ fans	fan si
 講大話
 人客
 鬼馬
+鑊	wok
 大鑊
+鑊鏟
 第二啲
 唔通
-唔work	wu work
 唔好
 唔好走
 唔使
 唔洗
 唔係
+唔喺度
 唔啱
 唔對
 唔俾
 唔畀
 唔嚟
+唔到
+唔會
+唔講
 啹	gur
 唔gur	wu gur
 唔啹
@@ -394,6 +580,20 @@ fans	fan si
 番鹼
 轆	luk
 車轆
+軲轆
+咕碌
+呔	tai
+呔	u kou tai
+呔	u kou
+軚	u che tai
+車呔
+轉軚
+軚盤
+補軚
+補呔
+爆呔
+爆軚
+褪軚
 火燭
 扯火
 蘇蝦
@@ -416,11 +616,15 @@ fans	fan si
 臢	zim
 腌臢
 唚	cam
+唚	u kou qin
+唚	u kou
 唚氣
 長氣唚氣
 噚	cam
 尋	cam
 噚	xun
+噚	u kou xun
+噚	u kou
 噚日
 琴日
 尋日
@@ -429,9 +633,13 @@ fans	fan si
 瓊	king
 瓊瑤
 瓊漿
+零瓊
 蛤乸
 蝨乸
 虱乸
+雞乸
+乸型
+豬乸
 撩女
 溝女
 媾女
@@ -449,8 +657,8 @@ fans	fan si
 笠水
 淆	ngaau
 淆底
-褪軚
 阿sir asir
+阿sir a she
 阿蛇
 炒魷魚
 當街
@@ -458,6 +666,8 @@ fans	fan si
 男人老狗
 呃人
 呃秤
+偷呃拐騙
+呃神騙鬼
 冧	lam
 冧	nam
 冧樓
@@ -467,24 +677,60 @@ fans	fan si
 隻抽
 大隻
 大隻佬
+大佬
+細佬
+衰佬
+傻佬
+閪佬
+臭佬
+肥佬
+瘦佬
+高佬
 金魚佬
 豬肉佬
+賣魚佬
 紙皮佬
+的士佬
+貨車佬
+通渠佬
+西裝佬
+闊佬
+和事佬
+麻甩佬
+鬼佬
+佬味
 筍	seon
 筍盤
 筍嘢
+瀨嘢
 食死貓
 買餸
 好餸
 扱	kap
+扱	u shou ji
+扱	u shou
 扱印
 晏晝
 自動波
+手動波
+拗	aau
 拗手瓜
+拗柴
+手指拗出唔拗入
 有落
 有啲
 有嘢
 有冇
+有排
+冇人
+冇有
+冇嘢
+冇尾飛陀
+冇錢
+冇用
+屐	kek
+踩屐
+冇鞋挽屐走
 散仔
 炒散
 得滯
@@ -496,13 +742,20 @@ fans	fan si
 本地薑
 晨早流流
 狗公
-厹	gougong
-厹	jiugong
+厹	gou gong
+做兵
+觀音兵
 撈頭
 撈鬆
 撈佬
+撈閪
+撈埋
+撈勻
 姣	haau
+姣	hao
+姣	u nv jiao
 發姣
+姣婆
 懵閉閉
 懵盛盛
 懵懵閉
@@ -513,11 +766,13 @@ fans	fan si
 fu被	fu
 蛋散
 饊	saan
+饊	u shi san
 蛋饊
 揸車
 弗	fit
 揸弗
 揸弗人
+踢爆
 符弗
 跛	bai
 跛腳
@@ -546,9 +801,197 @@ fu被	fu
 櫃桶
 好勁
 樣衰
+騭	zat
+陰騭
+陰濕
+生積
+踎	mau
+踎住
+抆	man
+抆屎
+癦	mak
+粒癦
+擘	maak
+擘開
+擘大
+鷂	jiu
+紙鷂
+放紙鷂
+嚿	gau
+嚿	jiu
+大嚿
+一嚿
+掅	cing
+掅	u shou qing
+掅	u shou
+掅起
+雞肶
+鴨肶
+鵝肶
+揞	am
+揞	u shou yin
+揞	u shou
+揞住
+揞實
+餲	aat
+餲	ngaat
+好餲
+餲味
+腍	lam
+好腍
+閂	saan
+閂	san
+閂	u men yi
+閂	u men
+閂門
+戌	seot
+戌門
+恤門
+蕹	ong
+蕹	ung
+蕹	ngung
+蕹菜
+坺	pek
+坺	pet
+坺	paat
+坺嘢
+一坺
 喎	wor
 喎	wo
 係喎
+但係
 啱喎
+迆	hea
+好迆
+好hea hao h
+食塞米
+喺度
+喺邊
 出嚟
 過嚟
+返嚟
+用嚟
+愛嚟
+執笠
+笠衫
+屋企
+返屋企
+返去
+返歸
+諗下
+諗到
+諗開
+諗嘢
+心諗
+諗落
+核突
+肉酸
+打邊爐
+M記	m ji
+M記	m gei
+捧餐
+地喱
+咕喱
+孤喱
+出貓
+𥄫	gap
+𥄫	gup
+𥄫嘢
+𥄫仔
+𥄫女
+𥄫住
+九唔搭八
+老襯
+搵老襯
+瓜老襯
+齊輯輯
+夠薑
+乸脷
+跌親
+跌倒
+跣	sin
+跣親
+跣倒
+一部通書睇到老
+一天都光曬
+十問九唔應
+十劃都未有一撇
+揦	laa
+鮓	zaa
+拃	zaa
+一拃
+揦返
+跌落地揦返拃沙
+偷雞唔成蝕渣米
+揦手
+揦手唔成勢
+揦西
+揦脷
+揦口
+揦面
+揦鮓
+邋遢
+好心著雷劈
+食碗面反碗底
+反轉豬肚就係屎
+大石砸死蟹
+七國咁亂
+三唔識七
+坐食山崩
+死雞
+執死雞
+盤滿缽滿
+縮沙
+食咗
+做咗
+冇咗
+有咗
+去咗
+靚咗
+除咗
+怕咗
+為咗
+落咗
+歪咗
+阻住
+攞嘢
+乜嘢
+乜鬼
+乜水
+為乜
+做乜
+使乜
+搵乜
+咩嘢
+做咩
+咩啊
+係我
+係佢
+係你
+哽係
+我係
+你係
+佢係
+係嗎
+真係
+係咁
+即係
+老豆
+老竇
+老母
+瞠大
+瞠大眼
+瞠開
+帶遮
+開遮
+擔遮
+到埠
+抵埠
+埠頭
+把鬼
+鬼知
+鬼死
+識鬼
+咪鬼
+唔鬼
+使鬼
