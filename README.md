@@ -11,4 +11,3 @@ Cantonese Extended Dictionary for Luna Pinyin
      易讀錯詞組 如 芫茜 yan xi
 
 適用於使用漢語拼音輸入粵語的人士
-
